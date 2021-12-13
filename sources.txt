@@ -1,0 +1,10 @@
+./src/plays/Orchestrator.java
+./src/games/Jeu.java
+./src/games/Plateau.java
+./src/games/Robots.java
+./src/games/Objectif.java
+./src/randomfonction/Aleatoire.java
+./src/main/Main.java
+./src/joueur/Joueur.java
+./src/joueur/Astar.java
+./src/joueur/Noeud.java
